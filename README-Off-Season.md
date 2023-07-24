@@ -38,7 +38,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 ## The List 🚴🏔
 > **Note**:
-> This README file is for **non-summer internships only**. For summer internships, please see the [Summer 2023 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md) or the [Summer 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md).
+> This README file is for **non-summer internships only**. For summer internships, see the [Summer 2024 README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README.md).
 
 [⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
@@ -58,7 +58,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | AMD | Austin, TX <br/> Santa Clara, CA <br/> Fort Collins, CO <br/> Boxborough, MA | Fall 2023 |**🔒 Closed 🔒** Software Engineering Co-Op/ Intern |
 | Snowflake | Bellevue, WA | Fall 2023 | **🔒 Closed 🔒** Software Engineer Intern (Core/Database Engineering) |
 | [ByteDance](https://jobs.bytedance.com/en/position?keywords=Software&category=&location=&project=7129361493955135774&type=2%2C3) | Seattle, WA <br/> San Jose, CA | Fall 2023 | Multiple |
-| [Google] | Multiple | Fall 2023 | **🔒 Closed 🔒** Software Engineering Intern, BS, Fall 2023 (Due July 7th, 2023) |
+| Google | Multiple | Fall 2023 | **🔒 Closed 🔒** Software Engineering Intern, BS, Fall 2023 (Due July 7th, 2023) |
 | Splunk | Remote | Fall 2023 | **🔒 Closed 🔒** <br/> Software Engineer Intern (Frontend) <br/> Performance Engineer Intern <br/> Machine Learning Engineer Intern <br/> Software Engineer Co-op (Frontend) (Canada) |
 | Anyscale | San Francisco, CA | Fall 2023 | **🔒 Closed 🔒**Software Engineer Intern |
 | [Amazon](https://www.amazon.jobs/en/jobs/2383729/software-engineering-intern-aws-center-for-quantum-computing-aws-center-for-quantum-computing) | San Francisco, CA | Fall 2023 | Software Engineering Intern - CQC | 
@@ -67,10 +67,11 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Vivacity Tech](https://vivacitytech.applytojob.com/apply/Wnw5Abrw6U/Engineer-Software-Intern) | Remote | Fall 2023 | Software Engineer Intern |
 | [Langan](https://careers.langan.com/job/Parsippany-Software-Development-Intern-or-Co-op-Fall-2023-NJ-07054-2172/1045849800/) | Parsippany, NJ | Fall 2023 | Software Engineer Intern |
 | [Medpace](https://uscareers-medpace.icims.com/jobs/8878/software-development-co-op---fall-2023/job) | Cincinnati, OH | Fall 2023 | Software Development Intern |
-| [Skydio](https://boards.greenhouse.io/skydio/jobs/5639641003?gh_src=b2366f993us) | San Mateo, California | Fall 2023 | Embedded Software Engineer Intern |
+| [Skydio](https://boards.greenhouse.io/skydio/jobs/5639641003?gh_src=b2366f993us) | San Mateo, CA | Fall 2023 | Embedded Software Engineer Intern |
 | Impulse Space | Redondo Beach, CA | Fall 2023 | **🔒 Closed 🔒** Embedded Software Engineering Intern (US Citizenship Required) |
 | BenefitMall | Hybrid (Dallas, TX) | Multiple | **🔒 Closed 🔒** Software Development Intern |
 | [Tesla](https://www.tesla.com/careers/search/?site=US&type=3) | Multiple | Fall 2023, Winter/Spring 2024 | Frontend/Backend SWE, Network Engineering, PM, UI/UX, and more. |
+| [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=13902acc-1b58-407a-8c0f-c093d7b8cc5a) | Milwaukee, WI <br/> Chicago, IL <br/> Hartford, CT <br/> Remote | Spring 2024 | Healthcare Analytics Intern |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)

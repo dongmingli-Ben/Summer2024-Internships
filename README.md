@@ -38,7 +38,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 
 ## The List 🚴🏔
 > **Note**:
-> This README file is for **Summer 2024 internships only**. For Summer 2023 internships, please [click here](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-2023.md).
+> This README file is for **Summer 2024 internships only**. For off-season internships, see the [Off-Season Internship README](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md).
 
 [⬇️ Jump to bottom ⬇️](https://github.com/pittcsc/Summer2024-Internships#we-love-our-contributors-%EF%B8%8F%EF%B8%8F)
 <!-- Please leave a one line gap between this and the table -->
@@ -85,10 +85,17 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369) | Sunrise, FL | Software Engineer Intern |
 | [Enphase Energy](https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr) | Austin, TX | Embedded Firmware Engineer Intern |
 | [Körber](https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/) | Fargo, ND | Software Developer Intern |
+<<<<<<< HEAD
 | ✔ [Maximus] | Mclean, VA | **🔒 Closed 🔒** Software Engineering Intern |
 | [Infineon] | Andover, MA </br> Warwick, RI | **🔒 Closed 🔒** Software Automation Engineer Intern |
 | ✔ [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
 | ✔ SIG | Bala Cynwyd, PA | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) |
+=======
+| Maximus | Mclean, VA | **🔒 Closed 🔒** Software Engineering Intern |
+| Infineon | Andover, MA </br> Warwick, RI | **🔒 Closed 🔒** Software Automation Engineer Intern |
+| [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
+| SIG | Bala Cynwyd, PA </br> New York, NY </br> Chicago, IL | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) </br> [Trading Intern](https://careers.sig.com/job/7464/Trading-Intern-Chicago) |
+>>>>>>> 9f1906166b6320a0113cc64ff87bb2d9049b786f
 | [Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/) | Milwaukee, WI | Municipal Trading Analytics Intern (No Sponsorship) |
 | [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedInJobs) | Greeley, CO | Information Technology Intern |
 | ✔ [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Expression of Interest) |
@@ -125,7 +132,12 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [TransMarket Group](https://boards.greenhouse.io/transmarketgroup?gh_src=295a85457us) | Chicago, IL | [Algorithmic Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023650007?t=295a85457us) <br/> [Quantitative Trader Intern](https://boards.greenhouse.io/transmarketgroup/jobs/4023644007?t=295a85457us) |
 | [Procter & Gamble](https://www.pgcareers.com/global/en/job/R000086643/IT-Engineer-Internship) | Cincinnati, OH | IT Engineer Intern (No Sponsorship Available) |
 | [Five Rings](https://fiverings.avature.net/careers) | NYC | ✔ [Software Dev Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Software-Developer-Summer-Intern-2024/649) <br/> [Quant Researcher Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Researcher-Summer-Intern-2024/645) <br/> [Quant Trader Intern](https://fiverings.avature.net/careers/FolderDetail/New-York-New-York-United-States-Quantitative-Trader-Summer-Intern-2024/643) <br/> (Winter 2024 also available) | 
-| ✔ [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=07e563a5-18f6-4e9f-a719-452971adba46)| Omaha, NE | Software Engineer Intern |
+| ✔ Milliman | Omaha, NE | **🔒 Closed 🔒** Software Engineer Intern |
+| [PCMI Corporation](https://www.indeed.com/cmp/Pcmi-Corporation-2/jobs?jk=e35b465c20d1a7c2&start=0&clearPrefilter=1) | Park Ridge, IL | BI QA Analyst Intern |
+| [Protective](https://jobs.lever.co/protective/2761edea-63bc-4be7-8b48-6e925c1be3f8/?lever-source%5B%5D=DiversityJobs) | Birmingham, AL | Technology Summer Internship |
+| [PepsiCo](https://www.pepsicojobs.com/internshipsprograms/jobs/241240?lang=en-us&previousLocale=en-US)| Purchase, New York <br> Plano, Texas | Software Development & Engineering Intern (No Sponsorship) |
+| [U.S. Bank](https://careers.usbank.com/global/en/job/2023-0020491/2024-Software-Engineering-Summer-Intern-Early-Careers) | Richfield, MN; and Atlanta, GA | 2024 Software Engineering Summer Intern |
+| Jane Street | New York, NY | [Software Engineer Internship](https://www.janestreet.com/join-jane-street/position/6834728002/) <br/> [Quantitative Trader Internship](https://www.janestreet.com/join-jane-street/position/6850721002/) <br/> [Quantitative Researcher Internship](https://www.janestreet.com/join-jane-street/position/6838982002/) |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships#the-list-)

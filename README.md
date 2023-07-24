@@ -85,17 +85,10 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | [Entrust](https://entrust.wd1.myworkdayjobs.com/EntrustCareers/job/United-States---Sunrise-FL/Software-Engineering-Intern_R002369) | Sunrise, FL | Software Engineer Intern |
 | [Enphase Energy](https://jobs.jobvite.com/enphase-energy/job/oFPRmfwr) | Austin, TX | Embedded Firmware Engineer Intern |
 | [Körber](https://jobs.koerber.com/pharma/job/Fargo-Software-Developer-Intern-ND-58102/954269201/) | Fargo, ND | Software Developer Intern |
-<<<<<<< HEAD
 | ✔ [Maximus] | Mclean, VA | **🔒 Closed 🔒** Software Engineering Intern |
 | [Infineon] | Andover, MA </br> Warwick, RI | **🔒 Closed 🔒** Software Automation Engineer Intern |
 | ✔ [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
 | ✔ SIG | Bala Cynwyd, PA | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) |
-=======
-| Maximus | Mclean, VA | **🔒 Closed 🔒** Software Engineering Intern |
-| Infineon | Andover, MA </br> Warwick, RI | **🔒 Closed 🔒** Software Automation Engineer Intern |
-| [Docugami](https://boards.greenhouse.io/docugami/jobs/4014838003) | Kirkland, WA | Software Engineering Intern |
-| SIG | Bala Cynwyd, PA </br> New York, NY </br> Chicago, IL | [Software Engineering Internship Program (Express Interest)](https://careers.sig.com/job/7102/Software-Engineering-Internship-Program-Summer-2024-Expression-of-Interest) </br> [Trading Intern](https://careers.sig.com/job/7464/Trading-Intern-Chicago) |
->>>>>>> 9f1906166b6320a0113cc64ff87bb2d9049b786f
 | [Northwestern Mutual](https://careers.northwesternmutual.com/corporate-careers/job/public-investments-municipal-trading-analytics-internship-summer-2024-milwaukee-wi-corporate-jr-38135/) | Milwaukee, WI | Municipal Trading Analytics Intern (No Sponsorship) |
 | [JBS USA](https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program?utm_source=linkedin&utm_medium=phenom-feeds&s=LinkedInJobs) | Greeley, CO | Information Technology Intern |
 | ✔ [Align Technology](https://jobs.aligntech.com/jobs/36257?iis=Job+Board&iisn=LinkedIn&lang=en-us) | Multiple Locations | Summer 2024 Internship (Expression of Interest) |

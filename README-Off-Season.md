@@ -52,7 +52,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | Domeyard LP | Boston, MA | (Summer, Fall, Winter, Spring available) | **🔒 Closed 🔒** Software Engineer Internship |
 | Western Digital (WD) | San Jose, CA | Fall 2023 | [SWE Firmware Intern](https://jobs.smartrecruiters.com/WesternDigital/743999910364988-fall-2023-software-engineering-firmware-intern) <br/> **🔒 Closed 🔒** SWE Performance and Power Firmware/Systems Engineering Intern |
 | Urban Science | Detroit, MI | Fall 2023 | **🔒 Closed 🔒** Data Analyst Intern |
-| [Ansys](https://careers.ansys.com/job/Vancouver-Spring-2024-Electronics-Intern-Software-Development-and-Testing-(BSMS)-Brit-V6E2M6/1026739100) | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Spring 2024 | Software Development and Testing|
+| Ansys | Vancouver, BC, Canada <br/> Montreal, QC, Canada <br/> Waterloo, ON, Canada | Spring 2024 | **🔒 Closed 🔒** Software Development and Testing|
 | [Certik](https://jobs.lever.co/certik/cc4bc2b7-ee87-43be-81c9-09c8b0411a7e) | New York, NY <br/> Seattle, WA <br/> SF Bay Area, CA <br/> Remote | Fall 2023 | SWE Intern |
 | [NimbleRX](https://jobs.lever.co/nimblerx/f1b1c7ab-60f4-4051-93ea-d2dbba1cee9c) | Remote | Winter / Spring | Software Engineer Intern |
 | AMD | Austin, TX <br/> Santa Clara, CA <br/> Fort Collins, CO <br/> Boxborough, MA | Fall 2023 |**🔒 Closed 🔒** Software Engineering Co-Op/ Intern |
@@ -72,6 +72,7 @@ And we're back! Use this repo to share and keep track of software, tech, CS, PM,
 | BenefitMall | Hybrid (Dallas, TX) | Multiple | **🔒 Closed 🔒** Software Development Intern |
 | [Tesla](https://www.tesla.com/careers/search/?site=US&type=3) | Multiple | Fall 2023, Winter/Spring 2024 | Frontend/Backend SWE, Network Engineering, PM, UI/UX, and more. |
 | [Milliman](https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=13902acc-1b58-407a-8c0f-c093d7b8cc5a) | Milwaukee, WI <br/> Chicago, IL <br/> Hartford, CT <br/> Remote | Spring 2024 | Healthcare Analytics Intern |
+| [UKG](https://careers.ukg.com/careers/JobDetail/DevOps-Engineering-Internship-Fall-2023/46143) | Lowell, MA <br/> Weston, FL | Fall 2023 | DevOps Engineering Internship |
 
 <!-- Please leave a one line gap between this and the table -->
 [⬆️ Back to Top ⬆️](https://github.com/pittcsc/Summer2024-Internships/blob/dev/README-Off-Season.md#the-list-)

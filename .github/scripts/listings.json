@@ -1557,7 +1557,7 @@
         "company_name": "Sanctuary",
         "id": "4594fcbd-3652-43f7-858f-913b8b8286c4",
         "title": "Software Co-op: AI/Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -2937,7 +2937,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "25a93696-1f6b-4ddd-9795-4f99bcee1277",
         "title": "Treasury Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -3288,7 +3288,7 @@
         "company_name": "Skydio",
         "id": "e477963c-22f1-42b5-9832-e227376b916e",
         "title": "Fall Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2023"
         ],
@@ -3590,7 +3590,16 @@
     {
         "company_name": "Bank of America",
         "locations": [
-            "Multiple US Locations"
+            "Addison, TX",
+            "Charlotte, NC",
+            "Chicago, IL",
+            "Denver, CO",
+            "Pennington, NJ",
+            "Plano, TX",
+            "Richardson, TX",
+            "Washington, DC",
+            "Richmond, VA",
+            "NYC Metro, NY"
         ],
         "title": "Global Technology Summer Analyst Program",
         "date_posted": 1688961600,
@@ -3602,9 +3611,9 @@
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1691685625,
         "id": "0e8b2a36-22fb-4449-a4b9-81dce5f51c4c",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Google",
@@ -5757,7 +5766,7 @@
         "sponsorship": "Offers Sponsorship"
     },
     {
-        "date_updated": 1691035200,
+        "date_updated": 1691684463,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/XMLNAME-2024-Software-Engineer-Intern--Woodland-Hills--CA_R10122550?redirect=%252FNorthrop_Grumman_External_Site%252Fjob%252FUnited-States-California-Woodland-Hills%252FXMLNAME-2024-Software-Engineer-Intern--Woodland-Hills--CA_R10122550%252Fapply%253Fcode%253DAPPLICANT_SOURCE-3-436&source=APPLICANT_SOURCE-3-436",
         "company_name": "Northrop Grumman",
         "title": "Software Engineer Intern ",
@@ -5767,16 +5776,16 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "9108e1a7-944c-437a-9eee-142aa4cc6784",
         "date_posted": 1691035200,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
+        "sponsorship": "Other"
     },
     {
-        "date_updated": 1691035200,
+        "date_updated": 1691684498,
         "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Jose/XMLNAME-2024---Intern-Technical--Cyber-Software--San-Jose--CA_R10122712?q=internship&redirect=/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/XMLNAME-2024-Software-Engineer-Intern--Woodland-Hills--CA_R10122550/apply?code=APPLICANT_SOURCE-3-436&source=APPLICANT_SOURCE-3-436",
         "company_name": "Northrop Grumman",
         "title": "Cyber Software Intern ",
@@ -5786,13 +5795,13 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "source": "hemanthy1",
         "id": "9108e1a7-944c-437a-9eee-142aa4cc6784",
         "date_posted": 1691035200,
         "company_url": "",
         "is_visible": true,
-        "sponsorship": "U.S. Citizenship is Required"
+        "sponsorship": "Other"
     },
     {
         "date_updated": 1690948800,
@@ -6148,7 +6157,7 @@
         "company_name": "HRL Laboratories",
         "id": "d10872b1-1451-441c-aa5a-7be0c9bb4e98",
         "title": "Graph Machine Learning Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6302,7 +6311,7 @@
         "company_name": "Intel",
         "id": "9c78c620-0af8-420e-91f0-95d114d608fb",
         "title": "Undergrad Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6321,7 +6330,7 @@
         "company_name": "HRL Laboratories",
         "id": "7912130b-21ef-4eb1-b30e-8c8282fabfbf",
         "title": "Virtual Cyber Network Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6340,7 +6349,7 @@
         "company_name": "HRL Laboratories",
         "id": "ba3a8d68-5f5b-4e5d-9235-9e3e27b07a98",
         "title": "Causal Inference and Reasoning Summer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -6806,7 +6815,7 @@
         "company_name": "IMC Trading",
         "id": "ae598fb7-5599-45f3-93d7-e50a0c2c26e7",
         "title": "Quant Trader Intern - Summer 2021",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -6825,7 +6834,7 @@
         "company_name": "IMC Trading",
         "id": "a7813fb6-456a-4e09-94c7-6e810b8b3aae",
         "title": "Software Engineer Intern - Summer 2022",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2022"
         ],
@@ -7074,11 +7083,11 @@
         "company_name": "Intel",
         "id": "0f33bc85-8a86-4f16-b40f-30c32c8db63a",
         "title": "Software IP Engineer \u2013 PEY Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
-        "date_updated": 1691539344,
+        "date_updated": 1691684243,
         "date_posted": 1691539344,
         "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Canada-Toronto/Software-IP--Engineer---PEY-Intern_JR0247107",
         "locations": [
@@ -7131,7 +7140,7 @@
         "company_name": "100ms",
         "id": "e13cd541-5441-45c6-aeb7-78d7e3391fb9",
         "title": "Devops Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -7204,17 +7213,17 @@
         "is_visible": true
     },
     {
-        "date_updated": 1691621569,
+        "date_updated": 1691684423,
         "url": "https://ea.gr8people.com/jobs/179637/software-engineer-intern?sid=4",
         "company_name": "EA",
-        "title": "Software Intern",
+        "title": "Software Engineering Intern",
         "locations": [
-            "Marina Del Ray, CA"
+            "Marina Del Rey, CA"
         ],
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
+        "sponsorship": "Other",
         "active": true,
         "source": "hemanthy1",
         "id": "9830e3e5-9eee-4e85-908b-82114293c557",
@@ -7266,6 +7275,287 @@
         "source": "hemanthy1",
         "id": "7f936807-3e2c-48ba-88ce-17ece6562bf3",
         "date_posted": 1691621636,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "8f56995a-421e-4deb-93ed-f2c5f09eaa79",
+        "title": "Campus \u2013 Intern - Tech Ops Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691623090,
+        "date_posted": 1691623090,
+        "url": "https://www.jumptrading.com/careers/4814330?gh_jid=4814330",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "c5ff8418-cb0e-4f70-a579-cb463843b6d4",
+        "title": "Campus Data Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691623089,
+        "date_posted": 1691623089,
+        "url": "https://www.jumptrading.com/careers/5281435?gh_jid=5281435",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Jump Trading",
+        "id": "1cdda8ce-b5b6-4c26-8a25-eea679db66c3",
+        "title": "Campus Software Engineer \u2013 Intern",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1691623087,
+        "date_posted": 1691623087,
+        "url": "https://www.jumptrading.com/careers/5281211?gh_jid=5281211",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Jump-Trading",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "NVIDIA",
+        "id": "8551cc5a-99be-403a-b4b8-b6cb87bf973f",
+        "title": "Software Intern - Server Firmware Manageability - Fall 2023",
+        "active": true,
+        "terms": [
+            "Fall 2023"
+        ],
+        "date_updated": 1691622381,
+        "date_posted": 1691622381,
+        "url": "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Software-Intern--Server-Firmware-Manageability---Fall-2023_JR1969509",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/NVIDIA",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "0e3dde91-f355-42c7-bfe6-d291763ba9ad",
+        "title": "Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1691622751,
+        "date_posted": 1691622751,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Data-Analyst-Intern_R0106075",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "PayPal",
+        "id": "de7f25d2-af21-4fc7-be7f-633e662b4300",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Fall 2024"
+        ],
+        "date_updated": 1691593578,
+        "date_posted": 1691593578,
+        "url": "https://wd1.myworkdaysite.com/recruiting/paypal/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-Intern_R0106013",
+        "locations": [
+            "Austin, TX",
+            "San Jose, CA",
+            "Chicago, IL",
+            "Scottsdale, AZ",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/PayPal",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1691684536,
+        "url": "https://careers.tiktok.com/position/7264779096583833914/detail?spread=5MWH5CQ",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Privacy and Security-Big Data)",
+        "locations": [
+            "San Jose",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "67681aa0-6421-4267-b89a-765bfe782aa3",
+        "date_posted": 1691684536,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691684565,
+        "url": "https://careers.tiktok.com/position/7265122242602092856/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Anti Automation Solutions)",
+        "locations": [
+            "San Jose",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "3671f4aa-87e3-4c75-bba2-d5c1573cbadc",
+        "date_posted": 1691684565,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691684592,
+        "url": "https://careers.tiktok.com/position/7265122301875980600/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Product Foundation-Account)",
+        "locations": [
+            "San Jose",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "b4c5c75a-502d-4ef6-99e3-535ef40140b0",
+        "date_posted": 1691684592,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691684610,
+        "url": "https://careers.roblox.com/jobs/5221293?disciplines=Early%20Career",
+        "company_name": "Roblox",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "Mrkr1sher",
+        "id": "805b92ef-92d5-43b1-adcc-8c5c6957732c",
+        "date_posted": 1691684610,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691684637,
+        "url": "https://careers.tiktok.com/position/7264779178602809637/detail",
+        "company_name": "TikTok",
+        "title": "Software Engineer Intern (Privacy and Security-Big Data)",
+        "locations": [
+            "Seattle",
+            "US"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "cwcoogan",
+        "id": "3559c5a5-49b3-4a49-acbb-f187d6335386",
+        "date_posted": 1691684637,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691700394,
+        "url": "https://careers.comerica.com/job/18891109/summer-2024-technology-cybersecurity-internship-in-auburn-hills-mi-auburn-hills-mi/?utm_campaign=google_jobs_apply",
+        "company_name": "Comerica Bank",
+        "title": "Technology & Cybersecurity Internship",
+        "locations": [
+            "Auburn Hills, MI"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "d86edc04-1a0a-4ee8-bb42-ffb6b08228b8",
+        "date_posted": 1691700394,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691700433,
+        "url": "https://careers.comerica.com/job/18891110/summer-2024-technology-cybersecurity-internship-in-plano-mi-plano-tx/",
+        "company_name": "Comerica Bank",
+        "title": "Technology & Cybersecurity Internship",
+        "locations": [
+            "Plano, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "5173cfdb-9e2e-4ff9-8eb9-ae743a7e8290",
+        "date_posted": 1691700433,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1691700761,
+        "url": "https://jobs.bayer.com/job/Residence-Based-Cloud-Developer-Intern-Resi/966220501/",
+        "company_name": "Bayer",
+        "title": "Cloud Developer Intern (Sponsorship Unknown)",
+        "locations": [
+            "Multiple Locations"
+        ],
+        "terms": [
+            "Summer 2024",
+            "Fall 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "shreeyapatell",
+        "id": "ea7bdf40-ecd2-48ad-9941-da4a7a8c5e39",
+        "date_posted": 1691700761,
         "company_url": "",
         "is_visible": true
     }

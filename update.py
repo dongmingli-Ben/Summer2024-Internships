@@ -57,12 +57,13 @@ def update(file: str, records: set):
             if res is not None:
                 company, role, location = res
                 if res in records:
-                    line = line.replace(role, f'✔ {role}')
+                    if f'✔ {role}' not in line:
+                        line = line.replace(role, f'✔ {role}')
             print(line, end='')
 
 
 if __name__ == '__main__':
-    # records = collect_records('README.md')
-    # dump_records(records)
-    records = load_records()
-    update('README.md', records)
+    records = collect_records('README.md')
+    dump_records(records)
+    # records = load_records()
+    # update('README.md', records)

@@ -1,50 +1,53 @@
-Databricks	Software Engineering Intern	Mountain View, CA</br>San Francisco, CA</br>Bellevue, WA
-Arrowstreet Capital	Quantitative Developer Intern - Summer 2024	Remote
-TikTok	Software Engineer Intern (Anti Automation Solutions)	San Jose</br>US
-Royal Bank of Canada	Quantitative Technology Services Intern	Jersey City, NJ
-Point72	Quantitative Developer Internship	NYC
-Intuit	Summer Internship Interest	Multiple Locations
-Morgan Stanley	Technology Summer Analyst Program	NYC
-Jane Street	Software Engineer Internship	NYC
-D.E. Shaw	Systems Technologist Intern	NYC
-HRL Laboratories	Natural Language Processing Intern	Calabasas, CA
-DRW	Software Developer Intern	Austin, TX</br>Chicago, IL
-Internet Brands	Intern Software Engineer	Los Angeles, California
-Mosaic ML	Research Scientist Intern	SF</br>NYC
-Caterpillar	Software Engineering Intern	Multiple Locations
-Capital One	Technology Internship Program	<details><summary>**10 locations**</summary>Cambridge, MA</br>SF</br>Philadelphia, PA</br>Plano, TX</br>McLean, VA</br>Richmond, VA</br>Chicago, IL</br>NYC</br>Roswell, GA</br>Wilmington, DE</details>
-IMC Trading	Software Engineer Intern	Chicago, IL
-Jump Trading	Campus Software Engineer – Intern	Chicago, IL
-Capstone Investment Advisors	Software Engineer Intern	NYC
-Verkada	Software Engineering Intern - Backend - Summer 2024	San Mateo, CA
-Palantir	Software Engineer – Internship	Seattle, WA
-Chime	Data Analytics Intern	SF
-Scholastic	Scholastic Summer Software Engineer Intern	NYC
-Crestron	Internship Program	Plano, TX</br>Rockleigh, NJ
 Tenstorrent	ML Intern – Customer Team	Austin, TX
-Akuna Capital	Software Engineer Intern - C++	Chicago, IL
-Google	Software Engineering Intern (MS)	Multiple US Locations
-DRW	Site Reliability Engineer Intern	Austin, TX Chicago, IL
-US Bank	2024 Software Engineering Summer Intern	Richfield, MN</br>Atlanta, GA
-Sensata Technologies	Software Engineer Intern	Attleboro, MA
-Maximus	Software Engineer Intern	Mclean, VA
-Snap Inc.	Software Engineering Intern	Palo Alto, CA</br>Seattle, WA</br>Los Angeles, CA
-Oklahoma City Thunder	Software Engineer Intern Data Science And Solutions	Remote
-Belvedere Trading	Software Engineer Intern - Summer 2024 Chicago	Chicago, IL
-D.E. Shaw	Systems Technical Program Manager Intern	NYC
+Scholastic	Scholastic Summer Software Engineer Intern	NYC
 Milliman	Software Engineer Intern	Omaha, NE
-Align Technology	Summer 2024 Internship (Expression of Interest)	Multiple Locations
-Lumen Technologies	Internship program (Express Interest) (U.S. work authorization required)	Remote, USA
-Radix Trading	C++ Quantitative Technologist Intern	Chicago, IL
+Sensata Technologies	Software Engineer Intern	Attleboro, MA
+Bayer	Software Engineer Intern	Creve Coeur, MO
+IMC Trading	Software Engineer Intern	Chicago, IL
+Akuna Capital	Software Engineer Intern - C++	Chicago, IL
+Jump Trading	Campus Software Engineer – Intern	Chicago, IL
+DRW	Software Developer Intern	Austin, TX</br>Chicago, IL
+D.E. Shaw	Software Development Intern	NYC
+Capital One	Technology Internship Program	<details><summary>**10 locations**</summary>Cambridge, MA</br>SF</br>Philadelphia, PA</br>Plano, TX</br>McLean, VA</br>Richmond, VA</br>Chicago, IL</br>NYC</br>Roswell, GA</br>Wilmington, DE</details>
+D.E. Shaw	Systems Technical Program Manager Intern	NYC
+Jane Street	Software Engineer Internship	NYC
 Five Rings	Software Dev Intern	NYC
+Lumen Technologies	Internship program (Express Interest) (U.S. work authorization required)	Remote, USA
+US Bank	2024 Software Engineering Summer Intern	Richfield, MN</br>Atlanta, GA
+Intuit	Summer Internship Interest	Multiple Locations
+Oshkosh Corporation	Computer/Software Engineering Intern	Oshkosh, WI
+Align Technology	Summer 2024 Internship (Expression of Interest)	Multiple Locations
+Citadel	Software Engineer Intern	Chicago, IL</br>NYC
+Morgan Stanley	Technology Summer Analyst Program	NYC
+Maximus	Software Engineer Intern	Mclean, VA
 Docugami	Software Engineering Intern	Kirkland, WA
+Chime	Data Analytics Intern	SF
+Crestron	Internship Program	Plano, TX</br>Rockleigh, NJ
+Radix Trading	C++ Quantitative Technologist Intern	Chicago, IL
+TikTok	Software Engineer Intern (Anti Automation Solutions)	San Jose</br>US
+HRL Laboratories	Natural Language Processing Intern	Calabasas, CA
+Palantir	Software Engineer – Internship	Seattle, WA
 Bank of America	Global Technology Summer Analyst Program	<details><summary>**10 locations**</summary>Addison, TX</br>Charlotte, NC</br>Chicago, IL</br>Denver, CO</br>Pennington, NJ</br>Plano, TX</br>Richardson, TX</br>Washington, DC</br>Richmond, VA</br>NYC Metro, NY</details>
+SIG	Software Engineering Internship Program (Express Interest)	Bala Cynwyd, PA
+Caterpillar	Software Engineering Intern	Multiple Locations
+Capstone Investment Advisors	Software Engineer Intern	NYC
+Point72	Quantitative Developer Internship	NYC
+Oracle NetSuite	Software Engineer Intern	Redwood City, CA</br>Austin, TX
+Snap Inc.	Software Engineering Intern	Palo Alto, CA</br>Seattle, WA</br>Los Angeles, CA
+D.E. Shaw	Systems Technologist Intern	NYC
+Akuna Capital	Quantitative Development Internship	Chicago, IL
+PDT Partners	Software Engineering Internship	NYC
+Databricks	Software Engineering Intern	Mountain View, CA</br>San Francisco, CA</br>Bellevue, WA
+Royal Bank of Canada	Quantitative Technology Services Intern	Jersey City, NJ
+Belvedere Trading	Software Engineer Intern - Summer 2024 Chicago	Chicago, IL
+Optiver US	Software Engineer Intern	Chicago, IL
 Amazon	Software Development Engineer Internship	Seattle, WA
+Oklahoma City Thunder	Software Engineer Intern Data Science And Solutions	Remote
+Verkada	Software Engineering Intern - Backend - Summer 2024	San Mateo, CA
+Google	Software Engineering Intern (MS)	Multiple US Locations
+Internet Brands	Intern Software Engineer	Los Angeles, California
+DRW	Site Reliability Engineer Intern	Austin, TX Chicago, IL
+Mosaic ML	Research Scientist Intern	SF</br>NYC
 Nomura	Information Technology Summer Analyst Program	NYC
 Cisco	Software Engineer II Intern	Multiple Locations
-PDT Partners	Software Engineering Internship	NYC
-Optiver US	Software Engineer Intern	Chicago, IL
-D.E. Shaw	Software Development Intern	NYC
-Akuna Capital	Quantitative Development Internship	Chicago, IL
-Citadel	Software Engineer Intern	Chicago, IL</br>NYC
-SIG	Software Engineering Internship Program (Express Interest)	Bala Cynwyd, PA
+Arrowstreet Capital	Quantitative Developer Intern - Summer 2024	Remote

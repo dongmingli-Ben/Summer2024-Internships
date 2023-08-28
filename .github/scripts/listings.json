@@ -43,7 +43,7 @@
         "company_name": "Akuna Capital",
         "id": "e11db57c-bdea-4be0-bc67-9001293524d6",
         "title": "Performance Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -813,14 +813,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.rbc.com/ca/en/job/RBCAA0088R0000062764EXTERNALENCA",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1692935810,
         "id": "c17f442e-c215-43ef-a319-7fecfded53fc",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -1308,7 +1308,7 @@
         "company_name": "Konrad Group",
         "id": "62b89c51-28d5-47b8-b560-cc33243f1953",
         "title": "Uoft PEY - Software Developer Intern - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2024"
         ],
@@ -1689,19 +1689,19 @@
         "locations": [
             "Greeley, CO"
         ],
-        "title": "Information Technology Intern",
+        "title": "Information technology intern",
         "date_posted": 1686542400,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://jobs.jbsfoodsgroup.com/us/en/job/JBUSUS47677EXTERNALENUS/2024-IT-Summer-Internship-Program",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690430400,
+        "date_updated": 1693073230,
         "id": "bde2f1bc-eb51-45e1-981b-abda01076fb7",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "source": "Simplify",
@@ -2840,7 +2840,7 @@
         "company_name": "Chewie Labs",
         "id": "ee11c43a-0aec-49c4-adf0-138077204f31",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -3790,7 +3790,7 @@
         "company_name": "Verkada",
         "id": "f18e9e59-031e-453a-9625-8a2abec132f9",
         "title": "Technical Support Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -5234,19 +5234,19 @@
         "locations": [
             "Newark, NJ"
         ],
-        "title": "2024 Global Technology, Software Engineering Internship",
+        "title": "2024 Global Technology, Software Engineering Internship\tNewark, NJ",
         "date_posted": 1689480000,
         "terms": [
             "Summer 2024"
         ],
-        "active": true,
+        "active": false,
         "url": "https://wd5.myworkdaysite.com/recruiting/pru/Careers/job/Newark-NJ-USA/Prudential--2024-Global-Technology--Software-Engineering-Internship-Program--_R-114845-2",
         "is_visible": true,
         "source": "Markdown",
         "company_url": "",
-        "date_updated": 1690862400,
+        "date_updated": 1693167385,
         "id": "92629df7-4ab5-4c89-a010-7566df9ec5e9",
-        "sponsorship": "Offers Sponsorship"
+        "sponsorship": "Other"
     },
     {
         "company_name": "Deloitte",
@@ -7791,7 +7791,7 @@
         "company_name": "Disco",
         "id": "b045b515-ebe8-477c-bce3-033dd0158b5b",
         "title": "Intern, Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -7810,7 +7810,7 @@
         "company_name": "Disco",
         "id": "20b2f20b-3f93-442a-845f-2b5f59835032",
         "title": "Intern \u2013 Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2023"
         ],
@@ -8473,7 +8473,7 @@
         "company_name": "Zeno Group",
         "id": "c4cb6783-339a-46d3-9fb4-2229a5220334",
         "title": "Strategy and Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8507,9 +8507,9 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692125576,
+        "date_updated": 1693093978,
         "url": "https://careers-chickfila.icims.com/jobs/14373/dtt-software-engineering-summer-2024-intern/job",
-        "company_name": "Chick-fil-A",
+        "company_name": "Chick-fil-a",
         "title": "Software Engineering Intern",
         "locations": [
             "Atlanta, GA"
@@ -8517,8 +8517,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "orebitt",
         "id": "bcbe0da0-9b8d-4211-90ac-57cd3e4f0548",
         "date_posted": 1692125576,
@@ -8545,7 +8545,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692125664,
+        "date_updated": 1693101660,
         "url": "https://careers.freddiemac.com/us/en/job/FRMAUSJR11159EXTERNAL/Single-Family-Software-Developer-Intern-Summer-2024-Hybrid-3-Days-in-Office",
         "company_name": "Freddie Mac",
         "title": "Software Developer Intern",
@@ -8555,7 +8555,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "source": "leetcodeLover",
         "id": "48a4c299-166a-4334-bd0a-69889d0378d1",
@@ -8656,7 +8656,7 @@
         "company_name": "Safari AI",
         "id": "48244551-fbd8-4fef-95d3-d0b27ef74c77",
         "title": "CV/ML Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -8733,7 +8733,7 @@
         "company_name": "PayPal",
         "id": "ae043eca-d42f-4b9d-8b84-09fa285c81c8",
         "title": "Finance & Accounting Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2024",
             "Fall 2024"
@@ -8792,7 +8792,7 @@
         "sponsorship": "Other"
     },
     {
-        "date_updated": 1692220302,
+        "date_updated": 1692974267,
         "url": "https://workiva.wd1.myworkdayjobs.com/en-US/careers/job/XMLNAME-2024-Summer---Software-Engineer_R7284",
         "company_name": "Workiva",
         "title": "Software engineering intern",
@@ -8802,8 +8802,8 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
-        "active": true,
+        "sponsorship": "Other",
+        "active": false,
         "source": "firelordsokka",
         "id": "9a4b50e5-1135-4748-910e-e3e4fe39b156",
         "date_posted": 1692220302,
@@ -9407,7 +9407,7 @@
         "company_name": "Walmart",
         "id": "107b4c72-cab7-4b80-bb2f-f88f68ef61fb",
         "title": "2023 Intern Conversion: 2024 Return Intern Software Engineer II",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -10897,7 +10897,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1692912932,
+        "date_updated": 1692968981,
         "url": "https://talent.lowes.com/us/en/job/2671644BR/Software-Engineer-Undergraduate-Internship",
         "company_name": "Lowes",
         "title": "Software Engineer Intern",
@@ -10907,7 +10907,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "sponsorship": "Offers Sponsorship",
+        "sponsorship": "Does Not Offer Sponsorship",
         "active": true,
         "source": "cwcoogan",
         "id": "6f8625ee-4d26-4564-a655-880a7a5c4b51",
@@ -10962,7 +10962,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1692919609,
+        "date_updated": 1692969272,
         "date_posted": 1692919609,
         "url": "https://www.qualtrics.com/careers/us/en/job/5317665?gh_jid=5317665",
         "locations": [
@@ -10970,7 +10970,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -11016,20 +11016,20 @@
         "source": "Simplify",
         "company_name": "Leidos",
         "id": "2e755418-3fee-45f9-9c28-cfd2d8037ebf",
-        "title": "Software Engineering Intern",
+        "title": "Software Engineer Intern",
         "active": true,
         "terms": [
-            "Summer 2023"
+            "Summer 2024"
         ],
-        "date_updated": 1692918696,
+        "date_updated": 1692969117,
         "date_posted": 1692918696,
         "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Remote-US/Software-Engineering-Intern_R-00117858",
         "locations": [
-            "Remote in USA"
+            "Remote, US"
         ],
         "company_url": "https://simplify.jobs/c/Leidos",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "U.S. Citizenship is Required"
     },
     {
         "source": "Simplify",
@@ -11078,7 +11078,7 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1692918571,
+        "date_updated": 1692974316,
         "date_posted": 1692918571,
         "url": "https://www.qualtrics.com/careers/us/en/job/5317675?gh_jid=5317675",
         "locations": [
@@ -11086,18 +11086,18 @@
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
         "company_name": "Qualtrics",
         "id": "1b5064d1-35ce-48ff-be8a-58bd543111ef",
-        "title": "Software Engineering Intern - Summer 2024",
+        "title": "Software Engineering Intern",
         "active": true,
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1692918573,
+        "date_updated": 1692974224,
         "date_posted": 1692918573,
         "url": "https://www.qualtrics.com/careers/us/en/job/5317651?gh_jid=5317651",
         "locations": [
@@ -11105,7 +11105,7 @@
         ],
         "company_url": "https://simplify.jobs/c/Qualtrics",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -11114,20 +11114,17 @@
         "title": "Intern \u2013 Software Test",
         "active": true,
         "terms": [
-            "Fall 2023",
-            "Winter 2024",
-            "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1692918487,
+        "date_updated": 1692969578,
         "date_posted": 1692918487,
         "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/United-States-of-America-Arizona-remote/Intern--Software-Test_R23-9478-1",
         "locations": [
-            "Remote in USA"
+            "Remote in US"
         ],
         "company_url": "https://simplify.jobs/c/Rockwell-Automation",
         "is_visible": true,
-        "sponsorship": "Other"
+        "sponsorship": "Does Not Offer Sponsorship"
     },
     {
         "source": "Simplify",
@@ -11202,6 +11199,391 @@
             "Morrisville, NC"
         ],
         "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692935895,
+        "url": "https://boards.greenhouse.io/rsinternboard/jobs/6905930002?gh_jid=6905930002&gh_src=afe9601d2us",
+        "company_name": "Relativity Space",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Long Beach, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "ba63f676-a4e1-4df6-9e06-c87ecb9c9e9c",
+        "date_posted": 1692935895,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Figma",
+        "id": "70b99364-7f26-4da5-b0cd-4f194937d56f",
+        "title": "Data Scientist Intern - 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1692659631,
+        "date_posted": 1692659631,
+        "url": "https://boards.greenhouse.io/figma/jobs/4956894004",
+        "locations": [
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Figma",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "iRobot",
+        "id": "965e53f2-4bd4-496e-9cb5-a75ec4726e74",
+        "title": "September-December: Sales Analytics Intern - Undergrad",
+        "active": true,
+        "terms": [
+            "Fall 2023",
+            "Winter 2024"
+        ],
+        "date_updated": 1692141248,
+        "date_posted": 1692141248,
+        "url": "https://irobot.wd5.myworkdayjobs.com/iRobot/job/US-Remote/July-December--Sales-Analytics-Intern--Undergrad-_R3435",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/iRobot",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "CSL",
+        "id": "bbb30874-2eef-4c05-a300-4dbd9a70e2b3",
+        "title": "Strategic Analytics Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1692731552,
+        "date_posted": 1692055761,
+        "url": "https://csl.wd1.myworkdayjobs.com/CSL_External/job/Americas-US-PA-King-of-Prussia-CSL-Behring/Market-Insights-Co-op_R-211614",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/d4f1200a-91a0-453b-b393-e1677d2317a8",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Golden Hippo",
+        "id": "e7397a7d-7366-430a-8551-dbf3e4bc9299",
+        "title": "SEO Data Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1691766737,
+        "date_posted": 1691766737,
+        "url": "https://boards.greenhouse.io/goldenhippo/jobs/4302676005",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Golden-Hippo",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1692975094,
+        "url": "https://careers.sysco.com/jobs/R120545?lang=en-us&source=Indeed+Organic",
+        "company_name": "Sysco",
+        "title": "Software Dev Engineer Intern",
+        "locations": [
+            "Houston, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "94ccd539-346f-4fc2-ad06-732d1f3ec52e",
+        "date_posted": 1692975094,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1692990859,
+        "url": "https://ea.gr8people.com/jobs/179737/software-engineer-intern?jobPipeline=Indeed",
+        "company_name": "EA",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Redwood City, CA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "hemanthy1",
+        "id": "72dafd89-014c-495a-9329-41319d2b8706",
+        "date_posted": 1692990859,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Nutanix",
+        "id": "b5ec12d2-4310-460a-9dde-f44dfe75363d",
+        "title": "Software Engineering Intern - Undergraduates Only",
+        "active": true,
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "date_updated": 1693006069,
+        "date_posted": 1693006069,
+        "url": "https://jobs.jobvite.com/nutanix/job/oPg7nfwj?nl=1&nl=1&fr=false",
+        "locations": [
+            "San Jose, CA",
+            "Durham, NC",
+            "United States"
+        ],
+        "company_url": "https://simplify.jobs/c/Nutanix",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TS Imagine",
+        "id": "8a90ad77-0cda-4f48-b539-0c77e9201b5e",
+        "title": "Desktop Support Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005899,
+        "date_posted": 1693005899,
+        "url": "https://tsimagine.com/about/careers/job/?gh_jid=5267934",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSImagine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TS Imagine",
+        "id": "55eff49f-1a8c-4c68-98f2-18fbc8fa32e2",
+        "title": "Data Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005899,
+        "date_posted": 1693005899,
+        "url": "https://tsimagine.com/about/careers/job/?gh_jid=5267898",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSImagine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "TS Imagine",
+        "id": "2ff239d4-67a0-4fcf-a2e8-92cb7d27efa5",
+        "title": "Financial Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005899,
+        "date_posted": 1693005899,
+        "url": "https://tsimagine.com/about/careers/job/?gh_jid=4192659",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TSImagine",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Santander",
+        "id": "d5617303-3771-4853-952e-961045f03c7a",
+        "title": "Technology Intern - SC",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005230,
+        "date_posted": 1693005230,
+        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/Irvine/Technology-Intern---SC_Req1199607-1",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Santander",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Leidos",
+        "id": "f1c887a8-ec02-4232-99f3-3f6a3fb0e23f",
+        "title": "Software Engineer Intern\ud83c\uddfa\ud83c\uddf8",
+        "active": false,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693013886,
+        "date_posted": 1693005096,
+        "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Charlottesville-VA/Software-Engineer-Intern_R-00117934-1",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/Leidos",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Proofpoint",
+        "id": "d7f7601c-4775-454c-b94f-a0e0a695c9b1",
+        "title": "Software Development Part-Time Intern - Undergrad",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005104,
+        "date_posted": 1693005104,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Pittsburgh-PA/Software-Development-Part-Time-Intern---Undergrad_R9627",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Proofpoint",
+        "id": "2761b6be-d126-46d0-b997-4d242a61e1bc",
+        "title": "Software Engineer Part-Time Intern - Undergrad",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693005108,
+        "date_posted": 1693005108,
+        "url": "https://proofpoint.wd5.myworkdayjobs.com/en-US/ProofpointCareers/job/Sunnyvale-CA/Software-Engineer-Part-Time-Intern---Undergrad_R9615",
+        "locations": [
+            "Sunnyvale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/proofpoint",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Epic Games",
+        "id": "8f5a7803-eb13-421c-9f3c-a0ae080f5134",
+        "title": "UI Programmer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693004704,
+        "date_posted": 1693004704,
+        "url": "https://boards.greenhouse.io/epicgames/jobs/4956964004",
+        "locations": [
+            "Morrisville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Epic-Games",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Ursa Major",
+        "id": "65ea08f3-f992-4183-bb4b-0c71b996e58b",
+        "title": "2024 Summer Avionics Software Engineer Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693072535,
+        "date_posted": 1693034366,
+        "url": "https://www.ursamajor.com/careers/4309511005?gh_jid=4309511005",
+        "locations": [
+            "Loveland, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/UrsaMajor",
+        "is_visible": true,
+        "sponsorship": "U.S. Citizenship is Required"
+    },
+    {
+        "date_updated": 1693094040,
+        "url": "https://jobs.bnsf.com/us/en/job/90748/Engineering-Network-Control-Systems-Summer-Intern-2024-Paid",
+        "company_name": "BNSF",
+        "title": "Network Control Systems Intern",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "dxiao01",
+        "id": "337a5136-2e94-4e44-ac1a-d2b52c0d66a4",
+        "date_posted": 1693094040,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1693101556,
+        "url": "https://jobs.bnsf.com/us/en/job/90821/Technology-Services-Summer-Intern-2024",
+        "company_name": "BNSF",
+        "title": "Technology Services Intern",
+        "locations": [
+            "Fort Worth, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "dxiao01",
+        "id": "6e4000d4-259e-426c-acf5-5c7a824419aa",
+        "date_posted": 1693101556,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Tombras",
+        "id": "ed6d6fa5-d7ca-4fc0-8b27-045fe535537e",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1693121044,
+        "date_posted": 1693121044,
+        "url": "https://jobs.lever.co/tombras/f8d38509-20f5-4a22-a8ea-c1e0b4e0fc6a/apply",
+        "locations": [
+            "Knoxville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/Tombras",
         "is_visible": true,
         "sponsorship": "Other"
     }

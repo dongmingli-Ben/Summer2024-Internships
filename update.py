@@ -51,11 +51,17 @@ def load_records(file: str = 'records.txt'):
 
 def update(file: str, records: set):
     with fileinput.FileInput(file, inplace=True, backup='.bak', encoding='utf-8') as f:
+        # updated on Sep 26 as the format changed
+        prev_company = None
         for line in f:
             # Modify the line as needed
             res = extract_role_info(line)
             if res is not None:
                 company, role, location = res
+                if company.strip() == '':
+                    company = prev_company
+                    res = (company, role, location)
+                prev_company = company
                 if res in records:
                     if f'✔ {role}' not in line:
                         line = line.replace(role, f'✔ {role}')

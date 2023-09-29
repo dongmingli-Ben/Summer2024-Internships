@@ -25,11 +25,15 @@ def extract_role_info(s: str):
 def collect_records(file):
     records = set()
     with open(file, 'r', encoding='utf-8') as f:
+        prev_company = None
         for line in f:
             res = extract_role_info(line)
             if res is None:
                 continue
             company, role, location = res
+            if company.strip() == '':
+                company = prev_company
+            prev_company = company
             if role.startswith('✔'):
                 role = role[2:]
                 records.add((company, role, location))

@@ -31,7 +31,7 @@ def collect_records(file):
             if res is None:
                 continue
             company, role, location = res
-            if company.strip() == '':
+            if company.strip() == '↳':
                 company = prev_company
             prev_company = company
             if role.startswith('✔'):
@@ -62,7 +62,7 @@ def update(file: str, records: set):
             res = extract_role_info(line)
             if res is not None:
                 company, role, location = res
-                if company.strip() == '':
+                if company.strip() == '↳':
                     company = prev_company
                     res = (company, role, location)
                 prev_company = company

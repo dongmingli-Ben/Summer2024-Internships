@@ -73,7 +73,7 @@ def update(file: str, records: set):
 
 
 if __name__ == '__main__':
-    # records = collect_records('README.md')
-    # dump_records(records)
-    records = load_records()
-    update('README.md', records)
+    records = collect_records('README.md')
+    dump_records(records)
+    # records = load_records()
+    # update('README.md', records)

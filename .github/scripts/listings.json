@@ -30440,14 +30440,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1697239713,
+        "date_updated": 1697496784,
         "date_posted": 1697239713,
         "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-us/crowdstrikecareers/job/USA---Austin-TX/Sales-Excellence-Data-Quality-Intern---Part-Time_R14733",
         "locations": [
             "Austin, TX"
         ],
         "company_url": "https://simplify.jobs/c/Crowdstrike",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -30535,14 +30535,14 @@
         "terms": [
             "Summer 2024"
         ],
-        "date_updated": 1697239270,
+        "date_updated": 1697496750,
         "date_posted": 1697239270,
         "url": "https://www.fanduel.careers/open-positions?gh_jid=5436770",
         "locations": [
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/FanDuel",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -30757,14 +30757,14 @@
             "Spring 2024",
             "Summer 2024"
         ],
-        "date_updated": 1697238574,
+        "date_updated": 1697496716,
         "date_posted": 1697238574,
         "url": "https://www.sharkninja.com/careers-application/?gh_jid=4290437006",
         "locations": [
             "Needham, MA"
         ],
         "company_url": "https://simplify.jobs/c/SharkNinja",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -30842,5 +30842,158 @@
         "company_url": "https://simplify.jobs/c/Hudson-River-Trading",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1697480171,
+        "url": "https://jobs.lever.co/arkbiotech/28a1b65c-b984-4c98-9685-7490b810dbdc",
+        "company_name": "Ark Biotech (Sponsors Canadians)",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Boston, MA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "taran317",
+        "id": "0a073f56-f7b5-422e-b9b9-62ebdfcf517b",
+        "date_posted": 1697480171,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697480213,
+        "url": "https://boards.greenhouse.io/samsungresearchamericainternship/jobs/6804869002?gh_src=13c38d562us&source=LinkedIn",
+        "company_name": "Samsung",
+        "title": "Data Science Researcher Intern",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "terms": [
+            "Spring 2024",
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "d043e9c5-3cd6-4bfe-b2fd-6e71e028d395",
+        "date_posted": 1697480213,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697480492,
+        "url": "https://jobs.lumen.com/global/en/job/331305/Intern-Software-Developer-Summer-2024",
+        "company_name": "Lumen",
+        "title": "Software Developer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "2effbbc6-20a4-454d-b41a-109f503e6e57",
+        "date_posted": 1697480492,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697480530,
+        "url": "https://jobs.lumen.com/global/en/job/331271/Intern-Software-Engineer-Summer-2024",
+        "company_name": "Lumen",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "98e13437-6988-45df-8aec-53a44903293a",
+        "date_posted": 1697480530,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697560863,
+        "url": "https://careers-stonex.icims.com/jobs/9844/intern---web-developer/job?mode=job&iis=Job+Board&iisn=LinkedIn&mobile=false&width=1569&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240",
+        "company_name": "StoneX",
+        "title": "Web Developer",
+        "locations": [
+            "Winter Park, FL"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "1104fa6c-1cfa-423f-a1e2-5f4505a55e5b",
+        "date_posted": 1697560863,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697560882,
+        "url": "https://corningjobs.corning.com/job/Corning-Data-Science-Intern-NY-14831/1082184300/",
+        "company_name": "Corning",
+        "title": "Data Science Intern",
+        "locations": [
+            "Corning, NY"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "7fb0c186-8b5d-41f1-93a8-8714aa9e81d4",
+        "date_posted": 1697560882,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697560901,
+        "url": "https://jobs.lumen.com/global/en/job/331302/Intern-Cybersecurity-Analyst",
+        "company_name": "Lumen",
+        "title": "Cybersecurity Analyst",
+        "locations": [
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "258b7974-e359-4aff-890f-6225f64f80da",
+        "date_posted": 1697560901,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1697560938,
+        "url": "https://sabre.wd1.myworkdayjobs.com/en-US/SabreJobs/job/Dallas-Fort-Worth-Metroplex/Data-Science---2024-Summer-Intern_JR102529",
+        "company_name": "Sabre",
+        "title": "Data Science - 2024 Summer Intern",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "53b22acb-d964-468f-99ca-a639d23e796f",
+        "date_posted": 1697560938,
+        "company_url": "",
+        "is_visible": true
     }
 ]

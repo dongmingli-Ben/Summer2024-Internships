@@ -41,7 +41,7 @@ def collect_records(file):
 
 def dump_records(records: list, save_path='records.txt'):
     with open(save_path, 'w', encoding='utf-8') as f:
-        for record in records:
+        for record in sorted(records):
             f.write('\t'.join(record))
             f.write('\n')
 
@@ -73,7 +73,7 @@ def update(file: str, records: set):
 
 
 if __name__ == '__main__':
-    records = collect_records('README.md')
-    dump_records(records)
-    # records = load_records()
-    # update('README.md', records)
+    # records = collect_records('README.md')
+    # dump_records(records)
+    records = load_records()
+    update('README.md', records)

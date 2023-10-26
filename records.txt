@@ -90,6 +90,7 @@ Scale AI	Software Engineering Intern	SF
 Scholastic	Scholastic Summer Software Engineer Intern	NYC
 Semgrep	Intern Software Engineer - Application Development	SF
 Sensata Technologies	Software Engineer Intern	Attleboro, MA
+Sigma Computing	Software Engineering Intern - Summer 2024	SF</br>NYC
 Snap Inc.	Software Engineering Intern	Palo Alto, CA</br>Seattle, WA</br>Los Angeles, CA
 Squarepoint Capital	Intern Software Developer	Montreal, QC, Canada</br>London, UK
 Stripe	Software Engineering Intern	Seattle, WA</br>SF</br>NYC

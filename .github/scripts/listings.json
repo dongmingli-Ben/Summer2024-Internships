@@ -12812,7 +12812,7 @@
         "company_name": "Oshkosh",
         "id": "cd19d7a7-9167-4f7a-8d2b-9cfe914abf0c",
         "title": "Engineer Intern - Software - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -15496,7 +15496,7 @@
         "company_name": "HubSpot",
         "id": "e923e3ae-b9d2-48d5-b718-8439c79b1b74",
         "title": "Hubspot Software Engineer Internship & Placement Program - Ireland",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -15554,7 +15554,7 @@
         "company_name": "HubSpot",
         "id": "48581c6d-075a-46ac-87d0-ddcc0732f3bd",
         "title": "Hubspot Software Engineer Internship & Placement Program - UK",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -15593,7 +15593,7 @@
         "company_name": "HubSpot",
         "id": "24c8f945-43ad-4467-ab37-c686fa8451e4",
         "title": "Hubspot Software Engineer Internship & Placement Program - Germany",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -15613,7 +15613,7 @@
         "company_name": "HubSpot",
         "id": "21e91fc6-9a40-4753-8362-4fff12a302c3",
         "title": "Hubspot Software Engineer Internship & Placement Program - UK",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025"
@@ -16098,7 +16098,7 @@
         "company_name": "Prime Medicine",
         "id": "3088e462-6441-4806-8645-487a743e9c96",
         "title": "Spring 2024 Co-op: Computational Sciences",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -18010,7 +18010,7 @@
         "company_name": "Walmart",
         "id": "41e26880-c5ba-48e4-96c1-1c6200f05ce5",
         "title": "2024 Summer Intern: Software Engineer II - Sam's Club \ud83d\udec2",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -20439,7 +20439,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "9381274e-6cf7-403d-b82e-31e974f07a0f",
         "title": "Co-Op \u2013 Data Science Co-Op - Spring 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -22055,7 +22055,7 @@
         "company_name": "Recorded Future",
         "id": "f7fdf8b1-5ea4-40f5-859c-9b8d7c7291f4",
         "title": "Software Engineering Intern - Data Pipelines",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2024",
             "Summer 2024"
@@ -27344,7 +27344,7 @@
         "company_name": "Unity",
         "id": "9d89604e-10fc-437d-963d-997b10e38235",
         "title": "Stagiaire en d\u00e9veloppement de logiciels \u2013 Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -27363,7 +27363,7 @@
         "company_name": "Unity",
         "id": "5709d283-fff0-4bd4-967b-99b0b74fceb1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -27536,7 +27536,7 @@
         "company_name": "Unity",
         "id": "7888e4e1-ecb6-49f2-bf89-45a136305212",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -27555,7 +27555,7 @@
         "company_name": "Unity",
         "id": "b9ec5665-df42-49a8-bf43-5815601e4ec5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -27574,7 +27574,7 @@
         "company_name": "Unity",
         "id": "b9d97dc4-edad-403c-aca8-677a811d9d50",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -27593,7 +27593,7 @@
         "company_name": "Unity",
         "id": "06f187a5-897b-4c12-92e0-04975e0da7e1",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -27612,7 +27612,7 @@
         "company_name": "Unity",
         "id": "eac79ee3-d461-46b5-a3b0-8b284f4d8426",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2024"
         ],
@@ -29105,7 +29105,7 @@
         "company_name": "Art of Problem Solving",
         "id": "c48db3cd-d5be-4e83-99b2-52d9446b0238",
         "title": "Software Engineering Intern - Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -30954,7 +30954,7 @@
         "is_visible": true
     },
     {
-        "date_updated": 1697560901,
+        "date_updated": 1698528688,
         "url": "https://jobs.lumen.com/global/en/job/331302/Intern-Cybersecurity-Analyst",
         "company_name": "Lumen",
         "title": "Cybersecurity Analyst",
@@ -30965,7 +30965,7 @@
             "Summer 2024"
         ],
         "sponsorship": "Does Not Offer Sponsorship",
-        "active": true,
+        "active": false,
         "source": "VitaliPri",
         "id": "258b7974-e359-4aff-890f-6225f64f80da",
         "date_posted": 1697560901,
@@ -31421,7 +31421,7 @@
         "company_name": "Global Relay",
         "id": "a2f53995-a423-40ee-8b44-0b5345507ceb",
         "title": "Software Developer in Test \u2013 Co-op - Sdet",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -32537,7 +32537,7 @@
         "company_name": "Bristol-Myers Squibb",
         "id": "ef9e7469-b321-4d3e-9bf1-d381f6e54c23",
         "title": "Summer 2024 \u2013 Internship - Data Science - Informatics and Predictive Sciences - Ips",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -33119,7 +33119,7 @@
         "company_name": "HashiCorp",
         "id": "ec8bca34-d553-4535-a332-c1c1a40b5750",
         "title": "Cloud Support Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34162,14 +34162,14 @@
             "Spring 2024",
             "Fall 2024"
         ],
-        "date_updated": 1698275893,
+        "date_updated": 1698464485,
         "date_posted": 1698275893,
         "url": "https://symbotic.wd1.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Intern--Robotics-Case-Handling_R2795",
         "locations": [
             "Burlington, MA"
         ],
         "company_url": "https://simplify.jobs/c/symbotic",
-        "is_visible": true,
+        "is_visible": false,
         "sponsorship": "Other"
     },
     {
@@ -34693,7 +34693,7 @@
         "company_name": "First Mode",
         "id": "8ea03deb-a142-47bd-bfe1-5f812b4a1aaa",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34770,7 +34770,7 @@
         "company_name": "Oshkosh",
         "id": "901d7e96-fadf-4bf9-bf02-2bcd8a3dd1fc",
         "title": "Computer/Software Engineering Intern-Summer 2024",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2024"
         ],
@@ -34790,7 +34790,7 @@
         "company_name": "Illumina",
         "id": "b87ff1ea-061a-47cc-86d0-4fd02b83c54a",
         "title": "Scientific Intern - Bachelors/Masters/Phd",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -34814,7 +34814,7 @@
         "company_name": "Illumina",
         "id": "5406823f-e8f2-4208-8cd3-af2c1edbbfa1",
         "title": "Bioinformatics Intern - Bachelors/Masters/Phd",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -34838,7 +34838,7 @@
         "company_name": "Illumina",
         "id": "297ca0d1-bf26-4a78-abd9-4d3b2ff77e9b",
         "title": "Software Engineer Intern - Bachelors/Masters",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2023",
             "Summer 2023",
@@ -34881,7 +34881,7 @@
         "company_name": "Smartsheet",
         "id": "8ff27ce2-566f-433e-89f0-ce7309f7bf96",
         "title": "Software Engineer Intern - Core Views",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -34900,7 +34900,7 @@
         "company_name": "Smartsheet",
         "id": "18c000d0-1c22-4dfa-b75a-eaedfab23780",
         "title": "Software Engineer Intern - Mondo",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2023"
         ],
@@ -34990,5 +34990,343 @@
         "company_url": "https://simplify.jobs/c/MarketAxess",
         "is_visible": true,
         "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698450697,
+        "url": "https://careers.paramount.com/Paramount/job/Burbank-Software-Engineering-Intern-%28Summer-2024-NYC%2C-LA-or-Remote%29-CA-91505/1082274800/",
+        "company_name": "Paramount",
+        "title": "Software Engineering Intern",
+        "locations": [
+            "Los Angeles, CA",
+            "New York, NY",
+            "Remote"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "JosephWong123",
+        "id": "8d3064f3-19a9-43a8-849f-f3ebd91a79cd",
+        "date_posted": 1698450697,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Thrivent",
+        "id": "35288d7f-1d50-4b65-b9cd-c67edce444ae",
+        "title": "Business Intelligence Analyst Intern - Sophomores Preferred - Summer 2024",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698464352,
+        "date_posted": 1698450036,
+        "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Business-Intelligence-Analyst-Intern--Sophomores-Preferred----Summer-2024_REQ-36380",
+        "locations": [
+            "Remote in USA",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Thrivent",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Smartsheet",
+        "id": "fa760b1d-93a4-40e2-aa2d-c5567ebc275d",
+        "title": "Software Engineer Intern - Attachment Architects",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1698449885,
+        "date_posted": 1698449885,
+        "url": "https://boards.greenhouse.io/smartsheet/jobs/5468975",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smartsheet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Smartsheet",
+        "id": "8cbe52fa-3e24-412c-ab02-999c7f3dbe80",
+        "title": "Software Engineer Intern - Grid Events",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1698449884,
+        "date_posted": 1698449884,
+        "url": "https://boards.greenhouse.io/smartsheet/jobs/5468475",
+        "locations": [
+            "Remote"
+        ],
+        "company_url": "https://simplify.jobs/c/Smartsheet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Smartsheet",
+        "id": "51c6f5c3-4eed-4375-9131-72d06afd1ab2",
+        "title": "Software Engineer Intern - Home Team",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1698449883,
+        "date_posted": 1698449883,
+        "url": "https://boards.greenhouse.io/smartsheet/jobs/5468461",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smartsheet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Smartsheet",
+        "id": "61d3fb8b-fd3a-40b4-9c58-9c2b8ed8128b",
+        "title": "Software Engineer Intern - Resource Management",
+        "active": true,
+        "terms": [
+            "Summer 2023"
+        ],
+        "date_updated": 1698449885,
+        "date_posted": 1698449885,
+        "url": "https://boards.greenhouse.io/smartsheet/jobs/5469014",
+        "locations": [
+            "Remote in USA"
+        ],
+        "company_url": "https://simplify.jobs/c/Smartsheet",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "f28d0063-c2f2-42ea-aa02-94bb34cda5a4",
+        "title": "2024 Summer Intern: Master\u2019s Sam's Club Supply Chain Data Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698464317,
+        "date_posted": 1698449092,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-BENTONVILLE-Home-Office-Sams-Home-Office/XMLNAME-2024-Summer-Intern--Master-s-Sam-s-Club-Supply-Chain-Data-Analyst_R-1710258-1",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Walmart",
+        "id": "22dfcb29-da4c-49e1-b263-4bc68d2c0082",
+        "title": "2024 Summer Intern: Sam's Club MAP - Jr Business Intelligence Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698464277,
+        "date_posted": 1698449096,
+        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/USA-AR-BENTONVILLE-Home-Office-Sams-Home-Office/XMLNAME-2024-Summer-Intern--Sam-s-Club-MAP---Jr-Business-Intelligence-Analyst_R-1710366",
+        "locations": [
+            "Bentonville, AR"
+        ],
+        "company_url": "https://simplify.jobs/c/Walmart",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "AffiniPay",
+        "id": "edd9852f-d991-408c-97da-1f38c46a4a90",
+        "title": "Software Development Internship",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698448339,
+        "date_posted": 1698448339,
+        "url": "https://www.affinipay.com/job-descriptions/?gh_jid=4298639006",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/AffiniPay",
+        "is_visible": true,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Rockwell Automation",
+        "id": "819a984b-553a-46c2-94a7-f898351ee360",
+        "title": "Intern \u2013 Firmware Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698464398,
+        "date_posted": 1698447969,
+        "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Devens-Massachusetts-United-States/Intern--Firmware-Engineering_R23-12055-1",
+        "locations": [
+            "Devens, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockwell-Automation",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "source": "Simplify",
+        "company_name": "Zoox",
+        "id": "98a80f60-eab1-454e-b94e-1a0934cdfee3",
+        "title": "Firmware Engineer Internship/Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2024"
+        ],
+        "date_updated": 1698464446,
+        "date_posted": 1698363413,
+        "url": "https://jobs.lever.co/zoox/32af8f77-71b5-4b0d-9b25-0f6cf85a39e3/apply",
+        "locations": [
+            "San Mateo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Zoox",
+        "is_visible": false,
+        "sponsorship": "Other"
+    },
+    {
+        "date_updated": 1698477012,
+        "url": "https://www.coinbase.com/careers/positions/5455689",
+        "company_name": "Coinbase",
+        "title": "Summer 2024 - Software Engineer Intern, Frontend",
+        "locations": [
+            "Remote USA",
+            "Remote Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Other",
+        "active": true,
+        "source": "ashaikh23",
+        "id": "bedbd939-55c4-4f8c-8fa0-b23bffc63b1e",
+        "date_posted": 1698477012,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698485707,
+        "url": "https://careers.siriusxm.com/careers/jobs/15048?lang=en-us",
+        "company_name": "SiriusXM",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York City, New York"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "2c15f8cf-1817-48b7-9348-2766233b1ded",
+        "date_posted": 1698485707,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698528601,
+        "url": "https://careers.siriusxm.com/careers/jobs/15089/job",
+        "company_name": "SiriusXM",
+        "title": "Android Automotive Application Developer",
+        "locations": [
+            "Deerfield Beach, Florida"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "VitaliPri",
+        "id": "77d2fc15-69e3-4402-aef7-6dfbb56b2fb1",
+        "date_posted": 1698528601,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698551435,
+        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210429295/",
+        "company_name": "JPMorgan Chase & CO",
+        "title": "Software Engineer Intern",
+        "locations": [
+            "New York City, New York",
+            "Columbus, OH",
+            "Houston, TX",
+            "Chicago, IL",
+            "Wilmington, DE",
+            "Palo Alto, CA",
+            "Plano, TX",
+            "Seattle, WA",
+            "Tampla, FL",
+            "Atlanta, GA",
+            "Jersey City, NJ"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Does Not Offer Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "6217e33c-f4ea-452e-886b-a96445102d2e",
+        "date_posted": 1698551435,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698553216,
+        "url": "https://boards.greenhouse.io/duolingouniversityrecruitment/jobs/6982219002?gh_src=5288c6c62us",
+        "company_name": "Duolingo",
+        "title": "Product Designer Intern",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "0926ade8-e508-4f39-82da-4c056711be80",
+        "date_posted": 1698553216,
+        "company_url": "",
+        "is_visible": true
+    },
+    {
+        "date_updated": 1698562062,
+        "url": "https://www.coinbase.com/careers/positions/5458493?gh_jid=5458493&gh_src=20687b321us",
+        "company_name": "Coinbase",
+        "title": "Product Design Intern",
+        "locations": [
+            "Remote USA",
+            "Remote Canada"
+        ],
+        "terms": [
+            "Summer 2024"
+        ],
+        "sponsorship": "Offers Sponsorship",
+        "active": true,
+        "source": "rygeorge",
+        "id": "4c2caa68-a8d9-4cf4-be39-7c166e280678",
+        "date_posted": 1698562062,
+        "company_url": "",
+        "is_visible": true
     }
 ]

@@ -1,3 +1,4 @@
+ActiveCampaign	Summer 2024 Software Engineering Internship	Chicago, IL
 Adobe	2024 Intern - Software Engineer	<details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>
 Akuna Capital	Quantitative Development Internship	Chicago, IL
 Akuna Capital	Software Engineer Intern - C++	Chicago, IL
@@ -27,6 +28,7 @@ Cisco	Software Engineer II Intern	Multiple Locations
 Citadel	Software Engineer Intern	Chicago, IL</br>NYC
 Cloudflare	Software Engineer – Intern - Summer 2024	Austin, TX
 Code42	Software Engineer Intern	Minneapolis, MN
+Coinbase	Software Engineer Intern, Backend	Los Angeles, CA
 Connor Group	2024 Digital Solutions Intern	United States
 Crestron	Internship Program	Plano, TX</br>Rockleigh, NJ
 D.E. Shaw	Software Development Intern	NYC
@@ -48,6 +50,7 @@ Fetch	Backend Software Engineer Internship - Madison	Madison, WI
 Figma	Software Engineer Intern - 2024	SF</br>NYC
 FiscalNote	Fiscalnote AI Internship	United States
 Five Rings	Software Dev Intern	NYC
+Fizz	Software Engineering Intern - Summer 2024	Palo Alto, CA
 Garda Capital Partners	Software Engineer Intern - Python	NYC
 Genesys	Software Engineer Intern	Remote
 Global Atlantic Financial Group	2024 Technology Intern	Boston, Massachusetts
@@ -94,6 +97,7 @@ Scholastic	Scholastic Summer Software Engineer Intern	NYC
 Semgrep	Intern Software Engineer - Application Development	SF
 Sensata Technologies	Software Engineer Intern	Attleboro, MA
 Sigma Computing	Software Engineering Intern - Summer 2024	SF</br>NYC
+Smartsheet	Software Engineer Intern - Core Views	Remote in USA
 Snap Inc.	Software Engineering Intern	Palo Alto, CA</br>Seattle, WA</br>Los Angeles, CA
 Squarepoint Capital	Intern Software Developer	Montreal, QC, Canada</br>London, UK
 Stripe	Software Engineering Intern	Seattle, WA</br>SF</br>NYC

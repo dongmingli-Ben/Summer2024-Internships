@@ -1,3 +1,4 @@
+ TodayTix Group	US Backend Developer Intern - Summer 2024	NYC
 ActiveCampaign	Summer 2024 Software Engineering Internship	Chicago, IL
 Adobe	2024 Intern - Software Engineer	<details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>
 Akuna Capital	Quantitative Development Internship	Chicago, IL
@@ -28,6 +29,7 @@ Chime	Data Analytics Intern	SF
 Cisco	Software Engineer II Intern	Multiple Locations
 Citadel	Software Engineer Intern	Chicago, IL</br>NYC
 Cloudflare	Software Engineer – Intern - Summer 2024	Austin, TX
+Cockroach Labs	Software Engineer Summer Intern - Frontend - New York City	NYC
 Code42	Software Engineer Intern	Minneapolis, MN
 Coinbase	Software Engineer Intern, Backend	Los Angeles, CA
 Connor Group	2024 Digital Solutions Intern	United States
@@ -65,6 +67,7 @@ Internet Brands	Intern Software Engineer	Los Angeles, California
 Intuit	Summer Internship Interest	Multiple Locations
 Jane Street	Software Engineer Internship	NYC
 Jump Trading	Campus Software Engineer – Intern	Chicago, IL
+Latitude AI	2024 Summer Internship: Software Engineer - Onboard	<details><summary>**4 locations**</summary>Palo Alto, CA</br>Detroit, MI</br>Remote in USA</br>Pittsburgh, PA</details>
 LivePerson	SDE Intern	Remote
 Lucid Motors	Intern – Battery Cell Modeling - Data Science Engineer - Summer 2024	Newark, CA
 Lyft	Software Engineer Intern - Frontend - 2024	SF
@@ -75,7 +78,6 @@ MongoDB	2024 - Software Engineering Intern, Product	<details><summary>**4 locati
 Morgan Stanley	Technology Summer Analyst Program	NYC
 Mosaic ML	Research Scientist Intern	SF</br>NYC
 Netflix	Software Engineer Intern - Summer 2024	Los Gatos, CA
-Nomura	Information Technology Summer Analyst Program	NYC
 Okta	Software Engineer Intern - Summer 2024	United States
 Optiver US	Software Engineer Intern	Chicago, IL
 Oracle NetSuite	Software Engineer Intern	Redwood City, CA</br>Austin, TX
@@ -101,7 +103,6 @@ Sensata Technologies	Software Engineer Intern	Attleboro, MA
 Sigma Computing	Software Engineering Intern - Summer 2024	SF</br>NYC
 Smartsheet	Software Engineer Intern - Core Views	Remote in USA
 Snap Inc.	Software Engineering Intern	Palo Alto, CA</br>Seattle, WA</br>Los Angeles, CA
-Squarepoint Capital	Intern Software Developer	Montreal, QC, Canada</br>London, UK
 Stripe	Software Engineering Intern	Seattle, WA</br>SF</br>NYC
 Symbotic	Intern-Software Engineer - Cognitive Tools	Burlington, MA
 Tenstorrent	ML Intern – Customer Team	Austin, TX

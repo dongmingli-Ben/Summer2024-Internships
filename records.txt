@@ -45,6 +45,7 @@ Datadog	Software Engineering Intern	New York City, NY
 Docugami	Software Engineering Intern	Kirkland, WA
 DoorDash	Software Engineer – Intern - Summer 2024	<details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>LA</br>NYC</details>
 Doxo	Software Engineer Intern	United States
+DriveWealth	Summer 2024 Intern - Platform Engineering	NYC
 Enova	Software Engineer Internship Summer 2024	Chicago, IL
 Epic Games	Physics Programmer Intern	Morrisville, NC
 F5	Summer 2024 Internship - Software Engineering	Seattle, WA
@@ -58,6 +59,7 @@ Garda Capital Partners	Software Engineer Intern - Python	NYC
 Genesys	Software Engineer Intern	Remote
 Global Atlantic Financial Group	2024 Technology Intern	Boston, Massachusetts
 Google	Software Engineering Intern (MS)	Multiple US Locations
+Gusto	Software Engineering Intern - Summer 2024	SF</br>NYC
 HRL Laboratories	Natural Language Processing Intern	Calabasas, CA
 Hudson River Trading	Software Engineering Internship - Summer 2024	NYC
 IMC Trading	Software Engineer Intern	Chicago, IL
@@ -72,6 +74,7 @@ LivePerson	SDE Intern	Remote
 Lucid Motors	Intern – Battery Cell Modeling - Data Science Engineer - Summer 2024	Newark, CA
 Lyft	Software Engineer Intern - Frontend - 2024	SF
 Maximus	Software Engineer Intern	Mclean, VA
+Meta	Software Engineer Intern	Menlo Park, CA</br>New York, NY</br>Seattle, WA
 Microsoft	Software Engineering Intern	<details><summary>**13 locations**</summary>St. Louis, MO</br>Mountain View, CA</br>Lehi, UT</br>San Diego, CA</br>Reston, VA</br>Fargo, ND</br>Cambridge, MA</br>Burlington, MA</br>Atlanta, GA</br>New York, NY</br>Redmond, WA</br>Charlotte, NC</br>Boise, ID</details>
 Milliman	Software Engineer Intern	Omaha, NE
 MongoDB	2024 - Software Engineering Intern, Product	<details><summary>**4 locations**</summary>Austin, TX</br>San Francisco, CA</br>New York, NY</br>Seattle, WA</details>
@@ -115,6 +118,7 @@ Veritas Technologies	Summer 2024- Software Engineer Intern- Graduate Degree	US -
 Verkada	Software Engineering Intern - Backend - Summer 2024	San Mateo, CA
 WeRide	Software Engineer Intern Spring/Summer 2024	San Jose, CA
 Weave	Data Engineer Intern	Lehi, UT
+Wing	Commerce Software Engineer Intern - Summer 2024	Palo Alto, CA
 Wolverine Trading	Software Engineer Intern - Summer 2024	Chicago, IL
 Zipline	Machine Learning Infrastructure Intern Summer 2024	San Bruno, CA
 Zocdoc	Software Engineering Summer Internship	NYC

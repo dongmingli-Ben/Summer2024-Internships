@@ -1,4 +1,4 @@
- TodayTix Group	US Backend Developer Intern - Summer 2024	NYC
+ASML	Software Engineer - Intern	San Jose, CA
 ActiveCampaign	Summer 2024 Software Engineering Internship	Chicago, IL
 Adobe	2024 Intern - Software Engineer	<details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>
 Akuna Capital	Quantitative Development Internship	Chicago, IL
@@ -42,6 +42,7 @@ DRW	Software Developer Intern	Austin, TX</br>Chicago, IL
 DV Trading	2024 Summer Internship - Software Development	NYC
 Databricks	Software Engineering Intern	Mountain View, CA</br>San Francisco, CA</br>Bellevue, WA
 Datadog	Software Engineering Intern	New York City, NY
+Discord	Software Engineer - Client Platforms Intern	San Francisco, CA</br>Remote (U.S.)
 Docugami	Software Engineering Intern	Kirkland, WA
 DoorDash	Software Engineer – Intern - Summer 2024	<details><summary>**4 locations**</summary>Seattle, WA</br>SF</br>LA</br>NYC</details>
 Doxo	Software Engineer Intern	United States
@@ -73,6 +74,7 @@ Latitude AI	2024 Summer Internship: Software Engineer - Onboard	<details><summar
 LivePerson	SDE Intern	Remote
 Lucid Motors	Intern – Battery Cell Modeling - Data Science Engineer - Summer 2024	Newark, CA
 Lyft	Software Engineer Intern - Frontend - 2024	SF
+Mark43	Frontend Engineering Intern-Summer 2024 - New York	NYC
 Maximus	Software Engineer Intern	Mclean, VA
 Meta	Software Engineer Intern	Menlo Park, CA</br>New York, NY</br>Seattle, WA
 Microsoft	Software Engineering Intern	<details><summary>**13 locations**</summary>St. Louis, MO</br>Mountain View, CA</br>Lehi, UT</br>San Diego, CA</br>Reston, VA</br>Fargo, ND</br>Cambridge, MA</br>Burlington, MA</br>Atlanta, GA</br>New York, NY</br>Redmond, WA</br>Charlotte, NC</br>Boise, ID</details>
@@ -108,6 +110,7 @@ Smartsheet	Software Engineer Intern - Core Views	Remote in USA
 Snap Inc.	Software Engineering Intern	Palo Alto, CA</br>Seattle, WA</br>Los Angeles, CA
 Stripe	Software Engineering Intern	Seattle, WA</br>SF</br>NYC
 Symbotic	Intern-Software Engineer - Cognitive Tools	Burlington, MA
+Synopsys	Technical Engineering Intern	Sunnyvale, CA
 Tenstorrent	ML Intern – Customer Team	Austin, TX
 Tradeweb	C++ Developer - Summer 2024 internship	Jersey City, NJ
 Two Sigma	Software Engineer Intern	New York, NYC

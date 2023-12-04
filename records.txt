@@ -68,6 +68,7 @@ IXL Learning	Software Engineer – Intern	San Mateo, CA
 Insitro	Data Science & Machine Learning Intern	San Bruno, CA
 Internet Brands	Intern Software Engineer	Los Angeles, California
 Intuit	Summer Internship Interest	Multiple Locations
+Intuitive Surgical	Software Engineer - Intern	Peachtree Corners, GA
 Jane Street	Software Engineer Internship	NYC
 Jump Trading	Campus Software Engineer – Intern	Chicago, IL
 Latitude AI	2024 Summer Internship: Software Engineer - Onboard	<details><summary>**4 locations**</summary>Palo Alto, CA</br>Detroit, MI</br>Remote in USA</br>Pittsburgh, PA</details>
@@ -98,6 +99,7 @@ Pure Storage	Software Engineer Intern - Summer 2024	Santa Clara, CA
 Rackner	Computer Science Internship	Hyattsville, MD
 Radix Trading	C++ Quantitative Technologist Intern	Chicago, IL
 Red Hat	Software Engineering Intern	Remote
+Remitly	Software Development Engineer - Intern	Seattle, WA
 Royal Bank of Canada	Quantitative Technology Services Intern	Jersey City, NJ
 SIG	Software Engineering Internship Program (Express Interest)	Bala Cynwyd, PA
 Salesforce	Summer 2024 Intern - Data Science - Data & Analytics	Indianapolis, IN</br>Dallas, TX</br>Atlanta, GA

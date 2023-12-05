@@ -1,4 +1,5 @@
 ASML	Software Engineer - Intern	San Jose, CA
+Acadian Asset Management	Quant Developer – Summer 2024 Internship	Cambridge, MA
 ActiveCampaign	Summer 2024 Software Engineering Internship	Chicago, IL
 Adobe	2024 Intern - Software Engineer	<details><summary>**6 locations**</summary>San Jose, CA</br>Austin, TX</br>San Francisco, CA</br>Lehi, UT</br>Seattle, WA</br>New York, NY</details>
 Akuna Capital	Quantitative Development Internship	Chicago, IL
@@ -56,6 +57,7 @@ Figma	Software Engineer Intern - 2024	SF</br>NYC
 FiscalNote	Fiscalnote AI Internship	United States
 Five Rings	Software Dev Intern	NYC
 Fizz	Software Engineering Intern - Summer 2024	Palo Alto, CA
+Flyx.ai (Flyx Labs)	Full-Stack Engineering Intern	Remote
 Garda Capital Partners	Software Engineer Intern - Python	NYC
 Genesys	Software Engineer Intern	Remote
 Global Atlantic Financial Group	2024 Technology Intern	Boston, Massachusetts
@@ -63,8 +65,10 @@ Google	Software Engineering Intern (MS)	Multiple US Locations
 Gusto	Software Engineering Intern - Summer 2024	SF</br>NYC
 HRL Laboratories	Natural Language Processing Intern	Calabasas, CA
 Hudson River Trading	Software Engineering Internship - Summer 2024	NYC
+Hugging Face	Machine Learning Engineer Internship - Document AI - US Remote	Remote in USA</br>United States
 IMC Trading	Software Engineer Intern	Chicago, IL
 IXL Learning	Software Engineer – Intern	San Mateo, CA
+Illumio	Engineering Intern - Performance & Scale - Summer 2024	Sunnyvale, CA
 Insitro	Data Science & Machine Learning Intern	San Bruno, CA
 Internet Brands	Intern Software Engineer	Los Angeles, California
 Intuit	Summer Internship Interest	Multiple Locations
@@ -75,6 +79,7 @@ Latitude AI	2024 Summer Internship: Software Engineer - Onboard	<details><summar
 LivePerson	SDE Intern	Remote
 Lucid Motors	Intern – Battery Cell Modeling - Data Science Engineer - Summer 2024	Newark, CA
 Lyft	Software Engineer Intern - Frontend - 2024	SF
+Mark43	Cloud Engineering Intern	NYC
 Mark43	Frontend Engineering Intern-Summer 2024 - New York	NYC
 Maximus	Software Engineer Intern	Mclean, VA
 Meta	Software Engineer Intern	Menlo Park, CA</br>New York, NY</br>Seattle, WA
@@ -103,6 +108,7 @@ Remitly	Software Development Engineer - Intern	Seattle, WA
 Royal Bank of Canada	Quantitative Technology Services Intern	Jersey City, NJ
 SIG	Software Engineering Internship Program (Express Interest)	Bala Cynwyd, PA
 Salesforce	Summer 2024 Intern - Data Science - Data & Analytics	Indianapolis, IN</br>Dallas, TX</br>Atlanta, GA
+Samsung Research America	2024 Summer Intern - Data Science & ML Prototyper	SF
 Scale AI	Software Engineering Intern	SF
 Scholastic	Scholastic Summer Software Engineer Intern	NYC
 Semgrep	Intern Software Engineer - Application Development	SF
@@ -114,6 +120,7 @@ Stripe	Software Engineering Intern	Seattle, WA</br>SF</br>NYC
 Symbotic	Intern-Software Engineer - Cognitive Tools	Burlington, MA
 Synopsys	Technical Engineering Intern	Sunnyvale, CA
 Tenstorrent	ML Intern – Customer Team	Austin, TX
+Tradeweb	C++ Developer - Intern	Jersey City, NJ
 Tradeweb	C++ Developer - Summer 2024 internship	Jersey City, NJ
 Two Sigma	Software Engineer Intern	New York, NYC
 US Bank	2024 Software Engineering Summer Intern	Richfield, MN</br>Atlanta, GA
@@ -127,4 +134,5 @@ Wing	Commerce Software Engineer Intern - Summer 2024	Palo Alto, CA
 Wolverine Trading	Software Engineer Intern - Summer 2024	Chicago, IL
 Zipline	Machine Learning Infrastructure Intern Summer 2024	San Bruno, CA
 Zocdoc	Software Engineering Summer Internship	NYC
+Zoox	Firmware Tools – Software Engineering Internship/Co-op	San Mateo, CA</br>San Diego, CA
 Zoox	Garage Tools – Full Stack Engineering Intern	San Mateo, CA

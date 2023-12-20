@@ -66,6 +66,7 @@ Gusto	Software Engineering Intern - Summer 2024	SF</br>NYC
 HRL Laboratories	Natural Language Processing Intern	Calabasas, CA
 Hudson River Trading	Software Engineering Internship - Summer 2024	NYC
 Hugging Face	Machine Learning Engineer Internship - Document AI - US Remote	Remote in USA</br>United States
+Humane	Software Engineering Intern - Device Experiences	SF
 IMC Trading	Software Engineer Intern	Chicago, IL
 IXL Learning	Software Engineer – Intern	San Mateo, CA
 Illumio	Engineering Intern - Performance & Scale - Summer 2024	Sunnyvale, CA
@@ -99,6 +100,7 @@ Parallel Systems	Internship - Software Engineer - Summer 2024	LA
 Patreon	Software Engineering Intern	San Francisco, CA</br>New York, NY
 Plaid	Software Engineer – Intern	SF
 PlayStation Global	Machine Learning Engineer Intern	San Diego, CA
+Plume	Software Engineer Intern	Palo Alto, CA
 Point72	Quantitative Developer Internship	NYC
 Pure Storage	Software Engineer Intern - Summer 2024	Santa Clara, CA
 Rackner	Computer Science Internship	Hyattsville, MD

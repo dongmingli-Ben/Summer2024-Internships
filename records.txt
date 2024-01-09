@@ -7,6 +7,7 @@ Akuna Capital	Software Engineer Intern - C++	Chicago, IL
 Alcon	Summer 2024 R&D Intern-Track 2	<details><summary>**5 locations**</summary>Lake Forest, CA</br>Johns Creek, GA</br>San Carlos, CA</br>Goleta, CA</br>Fort Worth, TX</details>
 Align Technology	Summer 2024 Internship (Expression of Interest)	Multiple Locations
 Amazon	Software Development Engineer Internship	Seattle, WA
+Applied Materials	Software Engineer Intern	Austin, TX
 Arrowstreet Capital	Quantitative Developer Intern - Summer 2024	Remote
 Art of Problem Solving	Software Engineering Intern - Summer 2024	San Diego, CA
 ArteraAI	Machine Learning Intern	Remote in USA
@@ -78,6 +79,7 @@ Jane Street	Software Engineer Internship	NYC
 Jump Trading	Campus Software Engineer – Intern	Chicago, IL
 Kumo	Software Engineering – Summer Internship 2024	Mountain View, CA
 Latitude AI	2024 Summer Internship: Software Engineer - Onboard	<details><summary>**4 locations**</summary>Palo Alto, CA</br>Detroit, MI</br>Remote in USA</br>Pittsburgh, PA</details>
+LeoLabs	Machine Learning Internship	United States
 LivePerson	SDE Intern	Remote
 Lucid Motors	Intern – Battery Cell Modeling - Data Science Engineer - Summer 2024	Newark, CA
 Lyft	Software Engineer Intern - Frontend - 2024	SF
@@ -92,6 +94,7 @@ Modernizing Medicine	Software Engineering Intern	Boca Raton, FL
 MongoDB	2024 - Software Engineering Intern, Product	<details><summary>**4 locations**</summary>Austin, TX</br>San Francisco, CA</br>New York, NY</br>Seattle, WA</details>
 Morgan Stanley	Technology Summer Analyst Program	NYC
 Mosaic ML	Research Scientist Intern	SF</br>NYC
+Moveworks	Machine Learning Engineer Intern - Conversational Search	Mountain View, CA
 Netflix	Software Engineer Intern - Summer 2024	Los Gatos, CA
 Okta	Software Engineer Intern - Summer 2024	United States
 Optiver US	Software Engineer Intern	Chicago, IL
@@ -113,6 +116,7 @@ Remitly	Software Development Engineer - Intern	Seattle, WA
 Royal Bank of Canada	Quantitative Technology Services Intern	Jersey City, NJ
 SIG	Software Engineering Internship Program (Express Interest)	Bala Cynwyd, PA
 Salesforce	Summer 2024 Intern - Data Science - Data & Analytics	Indianapolis, IN</br>Dallas, TX</br>Atlanta, GA
+Samsung	Intern – Software Quality Engineering - Soc C&MM	San Diego, CA
 Samsung Research America	2024 Summer Intern - Data Science & ML Prototyper	SF
 Scale AI	Software Engineering Intern	SF
 Scholastic	Scholastic Summer Software Engineer Intern	NYC

@@ -50,6 +50,7 @@ Doxo	Software Engineer Intern	United States
 DriveWealth	Summer 2024 Intern - Platform Engineering	NYC
 Enova	Software Engineer Internship Summer 2024	Chicago, IL
 Epic Games	Physics Programmer Intern	Morrisville, NC
+F5	Software Engineering Intern - Spokane	Spokane, WA
 F5	Summer 2024 Internship - Software Engineering	Seattle, WA
 FanDuel	Software Engineering Internship - Summer 2024	NYC
 Fetch	Backend Software Engineer Internship - Madison	Madison, WI
@@ -125,6 +126,7 @@ Sensata Technologies	Software Engineer Intern	Attleboro, MA
 Sigma Computing	Software Engineering Intern - Summer 2024	SF</br>NYC
 Smartsheet	Software Engineer Intern - Core Views	Remote in USA
 Snap Inc.	Software Engineering Intern	Palo Alto, CA</br>Seattle, WA</br>Los Angeles, CA
+Splunk	Software Engineer in Test Intern	Boulder, CO
 Strata Decision Technology	Intern – Software Engineering	Chicago, IL
 Stripe	Software Engineering Intern	Seattle, WA</br>SF</br>NYC
 Symbotic	Intern-Software Engineer - Cognitive Tools	Burlington, MA
@@ -134,6 +136,7 @@ Tradeweb	C++ Developer - Intern	Jersey City, NJ
 Tradeweb	C++ Developer - Summer 2024 internship	Jersey City, NJ
 Two Sigma	Software Engineer Intern	New York, NYC
 US Bank	2024 Software Engineering Summer Intern	Richfield, MN</br>Atlanta, GA
+Uniswap	Software Engineer Intern	NYC
 Unity	Software Engineer Intern	SF
 Vail Systems	Web Software Engineer Intern - Summer 2024	Chicago, IL
 Veritas Technologies	Summer 2024- Software Engineer Intern- Graduate Degree	US - Remote Heathrow, FL - All locations
